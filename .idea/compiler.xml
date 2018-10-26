@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springbootdemo1" />
+        <module name="tgshop_common_config" />
+        <module name="tgshop_common_dao" />
+        <module name="tgshop_common_interface" />
+        <module name="tgshop_common_pojo" />
+        <module name="tgshop_common_utils" />
+        <module name="tgshop_service_sellergoods" />
+        <module name="tgshop_web_manager" />
+        <module name="tgshop_web_shop" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo_demo_customer" target="1.8" />
+      <module name="dubbo_demo_service" target="1.8" />
+      <module name="dubbo_deno_customer" target="1.8" />
+      <module name="MBG" target="1.8" />
+      <module name="MBG_tkmapper" target="1.8" />
+      <module name="miniMVC" target="1.8" />
+      <module name="Mybatis_01" target="1.8" />
+      <module name="Mybatis_02" target="1.8" />
+      <module name="Mybatis_03" target="1.8" />
+      <module name="Mybatis_04" target="1.8" />
+      <module name="Mybatis_05" target="1.8" />
+      <module name="Mybatis_06" target="1.8" />
+      <module name="Mybatis_07" target="1.8" />
+      <module name="Mybatis_08" target="1.8" />
+      <module name="review" target="1.8" />
+      <module name="smis" target="1.8" />
+      <module name="smisTest" target="1.8" />
+      <module name="Spring_01" target="1.8" />
+      <module name="Spring_03" target="1.8" />
+      <module name="Spring_03_AOP" target="1.8" />
+      <module name="Spring_03_AOP_Annotation" target="1.8" />
+      <module name="Spring_04" target="1.8" />
+      <module name="Spring_04_AOP" target="1.8" />
+      <module name="Spring_04_AOP_Annotation" target="1.8" />
+      <module name="Spring_04_tx" target="1.8" />
+      <module name="Spring_05" target="1.8" />
+      <module name="Spring_demo02" target="1.8" />
+      <module name="Spring_demo_01" target="1.8" />
+      <module name="Spring_demo_03" target="1.8" />
+      <module name="springbootdemo1" target="1.8" />
+      <module name="SpringMVC_01" target="1.8" />
+      <module name="SpringMVC_02" target="1.8" />
+      <module name="ssm_01" target="1.8" />
+      <module name="ssm_01_t" target="1.8" />
+      <module name="ssm_02" target="1.8" />
+      <module name="ssm_02 (1)" target="1.8" />
+      <module name="ssm_03" target="1.8" />
+      <module name="ssm_05" target="1.8" />
+      <module name="ssm_dao" target="1.8" />
+      <module name="ssm_domain" target="1.8" />
+      <module name="ssm_parent" target="1.8" />
+      <module name="ssm_service" target="1.8" />
+      <module name="ssm_web" target="1.8" />
+      <module name="tgshop_common_config" target="1.8" />
+      <module name="tgshop_common_dao" target="1.8" />
+      <module name="tgshop_common_interface" target="1.8" />
+      <module name="tgshop_common_pojo" target="1.8" />
+      <module name="tgshop_common_utils" target="1.8" />
+      <module name="tgshop_parent" target="1.8" />
+      <module name="tgshop_service_sellergoods" target="1.8" />
+      <module name="tgshop_web_manager" target="1.8" />
+      <module name="tgshop_web_shop" target="1.8" />
+      <module name="tmis" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

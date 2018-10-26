@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/dubbo_demo_controller" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo_demo_service" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo_deno_customer" />
+    <file type="web" url="file://$PROJECT_DIR$/miniMVC" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC_01" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC_02" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm_01" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm_01t" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm_02" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm_03" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm_04" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm_05" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm_parent/ssm_web" />
+    <file type="web" url="file://$PROJECT_DIR$/tgshop_parent/tgshop_service_sellergoods" />
+    <file type="web" url="file://$PROJECT_DIR$/tgshop_parent/tgshop_web_manager" />
+    <file type="web" url="file://$PROJECT_DIR$/tgshop_parent/tgshop_web_shop" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ssm_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/tgshop_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootdemo1/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ssm_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_domain/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
